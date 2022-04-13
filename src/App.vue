@@ -9,7 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
   <div class="p-4 w-1/2 grid gap-4 sm:grid-cols-2">
     <img src="./assets/myPic.jpg" class="w-30 m-auto">
     <div class="h-30 w-full bg-slate-300 p-2">
-      <h1 class="text-2xl text-red-800 bold underline">NazirulAziman Bin Abu Bakar</h1>
+      <h1 class="text-2xl text-red-700 bold underline">NazirulAziman Bin Abu Bakar</h1>
       <ul class="text-lg bold">
 		    <li>Student ID : 20FTT1440</li>
         <li>Group Code : DWDT06</li>
@@ -18,7 +18,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <p>My Name is NazirulAziman and my friends and my colleague usually called me as Naz, I am an introvert and like to learn more on programming languages also interested on making a web design</p>
     </div>
     <div class="h-48 w-full bg-blue-300 p-4">
-      <h1 class="text-2xl text-red-800 bold underline">Hobbies</h1>
+      <h1 class="text-2xl text-red-700 bold underline">Hobbies</h1>
       <ul class="text-lg bold">
 		    <li>PLaying Video Games</li>
         <li>Playing Guitar</li>
@@ -26,7 +26,7 @@ import HelloWorld from './components/HelloWorld.vue'
 	    </ul>
     </div>
     <div class="h-48 w-full bg-blue-300 p-4">
-      <h1 class="text-2xl text-red-800 bold underline">Interest</h1>
+      <h1 class="text-2xl text-red-700 bold underline">Interest</h1>
       <ul class="text-lg bold">
 		    <li>Playing Music</li>
         <li>Drawing</li>
@@ -34,7 +34,7 @@ import HelloWorld from './components/HelloWorld.vue'
 	    </ul>
     </div>
     <div class="h-48 w-full bg-slate-300 p-4">
-      <h1 class="text-2xl text-red-800 bold underline">Education</h1>
+      <h1 class="text-2xl text-red-700 bold underline">Education</h1>
       <ul class="text-lg bold">
 		    <li>'O' Level</li>
         <li>HNTec in Information Technology</li>
@@ -42,7 +42,7 @@ import HelloWorld from './components/HelloWorld.vue'
 	    </ul>
     </div>
     <div class="h-48 w-full bg-slate-300 p-4">
-      <h1 class="text-2xl text-red-800 bold underline">Languages</h1>
+      <h1 class="text-2xl text-red-700 bold underline">Languages</h1>
       <ul class="text-lg bold">
 		    <li>Bahasa Melayu</li>
         <li>English</li>
