@@ -24,7 +24,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <div class="h-full w-full bg-slate-300 p-5">
       <h1 class="text-2xl text-pink-500 font-bold underline">Hobbies</h1>
         <ul class="text-lg bold">
-		      <li>PLaying Video Games</li>
+		      <li>Playing Video Games</li>
           <li>Watching Anime</li>
           <li>Reading Manhwa</li>
 	      </ul>
@@ -54,7 +54,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <div class="h-full w-full bg-violet-200 p-4">
         <h1 class="text-2xl text-blue-500 font-bold underline">Experience</h1>
         <ul class="text-lg bold">
-		      <li>IT Network Assitant</li>
+		      <li>IT Network Assistant</li>
           <li>Nurse Call Technician</li>
           <li>Web Developer</li>
 	      </ul>
